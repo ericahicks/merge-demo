@@ -14,6 +14,7 @@ public class Example {
 	public static void multithreading() { // no guaranteed order 
 		new Thread(() -> System.out.println("thread 1")).start();
 		new Thread(() -> System.out.println("thread 2 is awesome")).start();
+		new Thread(() -> System.out.println("thread 3 is great")).start();
 		System.out.println("multithreading");
 	}
 
