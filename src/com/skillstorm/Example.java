@@ -5,7 +5,7 @@ public class Example {
 
 
 	public static void main(String[] args) throws InterruptedException {
-		System.out.println("This is my code from Wednesday Week 9");
+		System.out.println("This is my code from Wednesday Week 9. Just some more practice with github.");
 		multithreading();
 		System.out.println("this is my code");
 		System.out.println("I don't know how to use Git");
