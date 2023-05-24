@@ -8,6 +8,7 @@ public class Example {
 		System.out.println("This is my code from Wednesday Week 9. Just some more practice with github.");
 		multithreading();
 		System.out.println("this is my code");
+		System.out.println("Blake");
 		System.out.println("I don't know how to use Git");
 		System.out.println("this is my code");
 		System.out.println("Tenzin was here");
