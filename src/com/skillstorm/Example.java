@@ -1,5 +1,5 @@
 package com.skillstorm;
-
+// This is the main class.
 public class Example {
 
 	public static void main(String[] args) throws InterruptedException {
